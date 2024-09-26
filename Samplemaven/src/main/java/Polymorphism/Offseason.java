@@ -1,7 +1,5 @@
 package Polymorphism;
 import java.util.Scanner;
-import java.util.scanner;
-
 public class Offseason extends Onseason 
 {
 	float offseasondiscount;
