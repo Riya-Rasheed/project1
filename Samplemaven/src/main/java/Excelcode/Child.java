@@ -11,7 +11,7 @@ public class Child
 		String s1 = Excelread.readStringData(0,0);
 		System.out.println(s1);
 		
-		String s2 = Excelread.readStringData(1,1);
+		String s2 = Excelread.readIntegerData(2,1);
 		System.out.println(s2);
 
 	}
